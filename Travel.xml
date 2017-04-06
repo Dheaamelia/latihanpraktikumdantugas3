@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<travel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="travel.xsd">
+	
+	<nama>Rudi Irmawan</nama>
+	<no_ktp>0000123456677</no_ktp>
+	<jeniskelamin>Lak-laki</jeniskelamin>
+	<tgl_berangkat>12 April 2017</tgl_berangkat>
+	<nama_bus>primajasa</nama_bus>
+	<kota_awal>bandung</kota_awal>
+	<kota_tujuan>Jakarta</kota_tujuan>
+	<biaya>95000</biaya>
+	<email>rudiirawan56@gmail.com</email>
+	<kursi nomor="13">
+	</kursi>
+	
+	<nama>Meli Rosmalina</nama>
+	<no_ktp>0000126538747</no_ktp>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<tgl_berangkat>14 April 2017</tgl_berangkat>
+	<nama_bus>primajasa</nama_bus>
+	<kota_awal>bandung</kota_awal>
+	<kota_tujuan>Surabaya</kota_tujuan>
+	<biaya>100000</biaya>
+	<email>rosmalina.meli@gmail.com</email>
+	<kursi nomor="12">
+	</kursi>
+	
+	
+	<nama>Claudia Santika</nama>
+	<no_ktp>00001263546318</no_ktp>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<tgl_berangkat>14 April 2017</tgl_berangkat>
+	<nama_bus>widia</nama_bus>
+	<kota_awal>jakarta</kota_awal>
+	<kota_tujuan>Yogyakarta</kota_tujuan>
+	<biaya>120000</biaya>
+	<email>csantika@gmail.com</email>
+	<kursi nomor="07">
+	</kursi>
+	
+	
+	<nama>Gustian Maulida</nama>
+	<no_ktp>0000126457214689</no_ktp>
+	<jeniskelamin>Laki-laki</jeniskelamin>
+	<tgl_berangkat>15 April 2017</tgl_berangkat>
+	<nama_bus>primajasa</nama_bus>
+	<kota_awal>Jakarta</kota_awal>
+	<kota_tujuan>Subang</kota_tujuan>
+	<biaya>85000</biaya>
+	<email>gustianmaulida@gmail.com</email>
+	<kursi nomor="10">
+	</kursi>
+	
+	<nama>Anggun Permatasari</nama>
+	<no_ktp>000012684591384</no_ktp>
+	<jeniskelamin>Perempuan</jeniskelamin>
+	<tgl_berangkat>14 April 2017</tgl_berangkat>
+	<nama_bus>primajasa</nama_bus>
+	<kota_awal>Bandung</kota_awal>
+	<kota_tujuan>Semarang</kota_tujuan>
+	<no_kursi>13</no_kursi>
+	<biaya>150000</biaya>
+	<email>anggunpermatasari@gmail.com</email>
+	<kursi nomor="17">
+	</kursi>
+	
+</travel>
