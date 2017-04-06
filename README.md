@@ -12,5 +12,5 @@ tag tersebut merupakan Sebuah komentar, tidak akan dibaca(proses)/diabaikan. Ber
 itu merupakan tag penting atau jantungnya dari xml, merupakan sebuah Instruksi Proses /direktif khusus untuk mengelola xml, Jadi jika kita ingin membuat sebuah xml maka Perintah tersebut harus ada, jika tidak maka srcpt tersebut tidak bisa di compile menjadi xml. Diawali &lt;?....?&gt;
    3. &lt;!DOCTYPE address [ - Deklarasi DOCTYPE memiliki tanda seru (!)
 Pada awal nama elemen.DOCTYPE menginformasikan parser yang DTD dikaitkan dengan dokumen XML ini.
-Dalam kode xml tersebut memiliki 1 element. Element sendiri merupakan nama teknis untuk tag yang berpasangan dimulai dari tag pembuka dan tag penutup pada dokumen XML. 1 element/class dalam oop yang dimiliki kode tersebut ada 1  dalam element tersebut mempunyai 10 Sub element dan terdapat sebuh atribut didalam
+Dalam kode xml tersebut memiliki 1 element. Element sendiri merupakan nama teknis untuk tag yang berpasangan dimulai dari tag pembuka dan tag penutup pada dokumen XML. 1 element/class dalam oop yang dimiliki kode tersebut ada 1  dalam element tersebut mempunyai 10 Sub element dan terdapat sebuah atribut didalamnya.
 XSD (XML Schema Definition) merupakan design yang menentukan type data untuk setiap element XML
